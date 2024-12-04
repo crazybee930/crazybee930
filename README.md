@@ -7,26 +7,26 @@
 - With 7 years of experience in software development and engineering, I have a demonstrated history of delivering top-notch solutions that align with business needs, all while following best practices and industry standards.
 * I am currently seeking a challenging position within a dynamic organization where I can apply my skills and expertise to propel business growth and success.
 
-🏆Portfolio
+🏆 Portfolio
 - Rust & BTC dev at Oranjinals
-  Product: https://www.betbtc.win/
-  Product: https://x.com/oranjinals
-  Stack: Rust + ICP + ChainFusion + Runes + Vuejs
+  - Product: https://www.betbtc.win/
+  - Product: https://x.com/oranjinals
+  - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
 - Rust & ICP Dev at Bridge23
-  Product: https://beta.bridge23.app/
-  Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
+  - Product: https://beta.bridge23.app/
+  - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
 - Rust & ICP Dev at OutRank
-  Product: https://www.outrank.io/
-  Stack: TypeScript + Nextjs + Rust + Dfx
+  - Product: https://www.outrank.io/
+  - Stack: TypeScript + Nextjs + Rust + Dfx
 - Rust & Near Dev at NearNauts
-  Product: https://twitter.com/NEARNauts
-  Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
+  - Product: https://twitter.com/NEARNauts
+  - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
 - Casino & Full-Stack Dev at Canada777
-  Product: https://canada777.com
-  Stack: Nextjs/Vuejs + Nodejs + Mongodb
+  - Product: https://canada777.com
+  - Stack: Nextjs/Vuejs + Nodejs + Mongodb
 - Python & AI Dev at Iconvo.ai
-  Product: https://iconvo.ai
-  Stack: Python + Flask + OpenAI + SQLite
+  - Product: https://iconvo.ai
+  - Stack: Python + Flask + OpenAI + SQLite
 - Python Dev at Ontic
-  Product: https://ontic.co
-  Stack: Python + NumPy + Data Scraping + PostgreSQL
+  - Product: https://ontic.co
+  - Stack: Python + NumPy + Data Scraping + PostgreSQL
